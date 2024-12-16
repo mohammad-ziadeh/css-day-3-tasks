@@ -1,0 +1,65 @@
+.main {
+  border: 5px solid orangered;
+
+  height: 500px;
+display: flex;
+  align-items: flex-start;
+  
+  color: white;
+}
+
+.one {
+  background-color: green;
+  height: 30px;
+  width: 20px;
+  align-self: baseline;
+  margin-top: 10px;
+}
+.two {
+  background-color: rgb(2, 10, 250);
+  height: 50px;
+  width: 30px;
+}
+.three {
+  background-color: rgb(249, 2, 241);
+  height: 50px;
+  width: 30px;
+}
+.four {
+  background-color: rgb(33, 22, 62);
+  height: auto;
+  width: 40px;
+  align-self: stretch;
+}
+.five {
+  background-color: rgb(255, 187, 0);
+  height: 20px;
+  width: 10px;
+  align-self: center;
+}
+.six {
+  background-color: rgb(255, 166, 0);
+  height: 50px;
+  width: 30px;
+}
+.seven {
+  background-color: rgb(255, 0, 0);
+  height: 50px;
+  width: 30px;
+}
+.eight {
+  background-color: rgb(76, 76, 76);
+  height: 50px;
+  width: 30px;
+}
+.nine {
+  background-color: rgb(63, 255, 63);
+  height: 50px;
+  width: 30px;
+}
+.ten {
+  background-color: rgb(18, 53, 18);
+  height: 50px;
+  width: 30px;
+  align-self: flex-end;
+}

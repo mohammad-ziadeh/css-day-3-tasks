@@ -1,0 +1,27 @@
+a {
+  text-decoration: none;
+  color: black;
+}
+header {
+  border: 1px solid black;
+  flex-direction: row;
+  height: 40px;
+  display: flex;
+}
+.links {
+  border: 1px solid rgb(251, 250, 252);
+  gap: 90px;
+  padding: 10px;
+  justify-items: end;
+  display: flex;
+  margin-left: 1100px;
+}
+.icon {
+  margin-left: 10px;
+  height: 40px;
+  width: 40px;
+  background-color: rgb(249, 16, 4);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+}

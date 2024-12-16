@@ -1,0 +1,15 @@
+body{
+    height: 500px;
+    background-color: blueviolet;
+   
+}
+.one {
+   gap: 10px;
+   display: flex;
+}
+.two {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    border: 1px solid rgb(255, 255, 255);
+}

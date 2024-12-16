@@ -1,0 +1,12 @@
+body {
+  display: flex;
+}
+div {
+  border: 2px solid blueviolet;
+  background-color: rgb(93, 93, 241);
+  width: 150px;
+  height: 180px;
+  color: white;
+  border-radius: 2%;
+  padding: 7px;
+}
